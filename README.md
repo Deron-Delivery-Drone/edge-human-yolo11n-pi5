@@ -2,6 +2,46 @@
 
 A lightweight YOLO11n human detection model for Raspberry Pi 5 and edge AI devices. Designed for developers who need a ready-to-run human detector without training from scratch.
 
+<p align="center">
+  <a href="#detailed-clone-and-usage-guide">Usage Guide</a> |
+  <a href="#model-files">Model Files</a> |
+  <a href="docs/MODEL_CARD.md">Model Card</a> |
+  <a href="docs/DATASET_STATEMENT.md">Dataset Statement</a>
+</p>
+
+<p align="center">
+  <a href="#detailed-clone-and-usage-guide">
+    <img alt="Docs" src="https://img.shields.io/badge/DOCS-README-555555?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Deron-Delivery-Drone/edge-human-yolo11n-pi5">
+    <img alt="GitHub repository" src="https://img.shields.io/badge/GITHUB-EDGE--HUMAN--YOLO11N--PI5-facc15?style=for-the-badge">
+  </a>
+  <a href="models/README.md">
+    <img alt="Model" src="https://img.shields.io/badge/MODEL-YOLO11N-4f46e5?style=for-the-badge">
+  </a>
+  <a href="LICENSE">
+    <img alt="License AGPL-3.0" src="https://img.shields.io/badge/LICENSE-AGPL--3.0-2ea043?style=for-the-badge">
+  </a>
+  <a href="#raspberry-pi-5-notes">
+    <img alt="Raspberry Pi 5 CPU only" src="https://img.shields.io/badge/PI%205-CPU--ONLY-ef4444?style=for-the-badge">
+  </a>
+  <a href="https://github.com/Deron-Delivery-Drone">
+    <img alt="Built by Deron Delivery Drone" src="https://img.shields.io/badge/BUILT%20BY-DERON%20DELIVERY%20DRONE-8a2be2?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#english">
+    <img alt="Language English" src="https://img.shields.io/badge/LANG-ENGLISH-555555?style=for-the-badge">
+  </a>
+  <a href="#tiếng-việt">
+    <img alt="Language Vietnamese" src="https://img.shields.io/badge/LANG-TI%E1%BA%BENG%20VI%E1%BB%86T-16a34a?style=for-the-badge">
+  </a>
+  <a href="#中文">
+    <img alt="Language Chinese" src="https://img.shields.io/badge/LANG-%E4%B8%AD%E6%96%87-dc2626?style=for-the-badge">
+  </a>
+</p>
+
 ## Features
 
 - Human/person detection
