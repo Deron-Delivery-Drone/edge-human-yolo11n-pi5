@@ -157,7 +157,7 @@ sudo apt update
 sudo apt install -y python3 python3-pip python3-venv libgl1 libglib2.0-0
 ```
 
-Khuyến nghị dùng Raspberry Pi OS 64-bit. Nên dùng nguồn ổn định và tản nhiệt tốt vì nhiệt độ CPU có thể ảnh hưởng trực tiếp đến tốc độ inference.
+Khuyến nghị dùng Raspberry Pi OS 64-bit. Nên dùng nguồn ổn định và tản nhiệt tốt vì nhiệt độ CPU có thể ảnh hưởng trực tiếp đến tốc độ xử lý dữ liệu.
 
 #### 2. Clone Repository Về Máy
 
