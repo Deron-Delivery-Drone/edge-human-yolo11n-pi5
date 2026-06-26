@@ -25,7 +25,7 @@ A lightweight YOLO11n human detection model for Raspberry Pi 5 and edge AI devic
   <a href="#raspberry-pi-5-notes">
     <img alt="Raspberry Pi 5 CPU only" src="https://img.shields.io/badge/PI%205-CPU--ONLY-ef4444?style=for-the-badge">
   </a>
-  <a href="https://github.com/Deron-Delivery-Drone">
+  <a href="[https://github.com/Deron-Delivery-Drone](https://deron.vn/)">
     <img alt="Built by Deron" src="https://img.shields.io/badge/BUILT%20BY-DERON-8a2be2?style=for-the-badge">
   </a>
 </p>
